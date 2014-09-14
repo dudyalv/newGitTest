@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8"?><emp xmlns="http://www.example.org/emp/"><ename><fname>FN</fname><sname>SN</sname></ename><empcode>EC</empcode><address> <doorNo>DN</doorNo><street>ST</street><city>CT</city><zipCode>ZC</zipCode></address></emp>
